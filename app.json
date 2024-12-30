@@ -1,6 +1,6 @@
 {
     "name": "biisal",
-    "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @biisal",
+    "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @Itsofficials_RP",
     "keywords": [
         "telegram",
         "stream",
@@ -15,8 +15,8 @@
     ],
     "repository": "https://github.com/biisal/biisal-file-stream-pro/",
     "success_url": "/",
-    "logo": "https://i.postimg.cc/jjgVnXrV/20231106-110427.png",
-    "website": "https://biisal.github.io/biisal",
+    "logo": "https://i.postimg.cc/NGk8mJ8v/File-Stream-Bot.jpg",
+    "network": "https://t.me/Sigma_officials",
     "env": {
         "ENV": {
             "description": "Set this to True if you don't want to crash the bot",
